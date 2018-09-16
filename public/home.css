@@ -1,0 +1,36 @@
+.container-fluid {
+  display: flex;
+  justify-content: center;
+  background-color: white;
+}
+
+main {
+  background-image: url("http://st.gde-fon.com/wallpapers_original/307356_priroda_-gora_-ozero_-derevo_1920x1200_www.Gde-Fon.com.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin-top: -1.5vw;
+  padding: 28px;
+}
+.homepage__slogan-text {
+  font-size: 2vw;
+  line-height: 1.4;
+  text-align: center;
+  justify-content: center;
+}
+
+.img-home {
+  margin-top: 3vw;
+  margin-left: 27vw;
+  border: 2px solid transparent;
+  border-radius: 10px;
+}
+.commcez-maintenant {
+  background-color: rgb(157, 116, 196);
+  text-align: center;
+  justify-content: center;
+  text-decoration: none;
+
+  color: white;
+  border: 2px solid transparent;
+  border-radius: 10px;
+}
